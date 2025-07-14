@@ -1,0 +1,84 @@
+{
+    "workbench.editorAssociations": {
+        "*.wotreplay": "default",
+        "*.ipynb": "jupyter-notebook"
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "python.showStartPage": false,
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "workbench.colorTheme": "One Dark Pro",
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "python.defaultInterpreterPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\Python39_64\\python.exe",
+    "php.debug.executablePath": "D:\\VSProject\\Server\\xampp\\php\\php.exe",
+    "explorer.confirmDelete": false,
+    "remote.SSH.remotePlatform": {
+        "CppDevelop": "linux",
+        "82.156.148.181": "linux"
+    },
+    "editor.quickSuggestions": {
+        "comments": "on"
+    },
+    "explorer.confirmDragAndDrop": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "debug.onTaskErrors": "abort",
+    "cmake.configureOnOpen": true,
+    "C_Cpp.addNodeAddonIncludePaths": true,
+    "editor.tabCompletion": "on",
+    "editor.fontFamily": "Monaco, 'Courier New', monospace",
+    "C_Cpp.autocompleteAddParentheses": true,
+    "cmakeLanguageSupport.enableFileAPI": true,
+    "leetcode.endpoint": "leetcode-cn",
+    "leetcode.hint.configWebviewMarkdown": false,
+    "leetcode.workspaceFolder": "D:\\VSProject\\LeetCode_VSCode",
+    "leetcode.defaultLanguage": "python3",
+    "leetcode.hideSolved": true,
+    "leetcode.showLocked": false,
+    "leetcode.enableSideMode": true,
+    "leetcode.problems.sortStrategy": "Acceptance Rate (Descending)",
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "leetcode.filePath": {
+        "default": {
+            "folder": "${language}\\${difficulty}",
+            "filename": "${id}.${ext}"
+        }
+    },
+    "leetcode.hint.commandShortcut": false,
+    "leetcode.hint.commentDescription": false,
+    "glassit.alpha": 235,
+    "C_Cpp.inlayHints.autoDeclarationTypes.showOnLeft": true,
+    "C_Cpp.inlayHints.parameterNames.enabled": true,
+    "C_Cpp.inlayHints.parameterNames.suppressWhenArgumentContainsName": false,
+    "C_Cpp.inlayHints.referenceOperator.enabled": true,
+    "C_Cpp.inlayHints.referenceOperator.showSpace": true,
+    "C_Cpp.vcFormat.newLine.closeBraceSameLine.emptyType": true,
+    "C_Cpp.vcFormat.newLine.closeBraceSameLine.emptyFunction": true,
+    "C_Cpp.vcFormat.space.beforeComma": true,
+    "C_Cpp.default.cppStandard": "c++17",
+    "go.toolsManagement.autoUpdate": true,
+    "python.formatting.provider": "black",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "tabnine.experimentalAutoImports": true,
+    "editor.largeFileOptimizations": false,
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.advanced": {},
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false,
+        "yaml": false,
+        "cpp": true
+    },
+    "[cpp]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "[c]": {
+        "editor.defaultFormatter": "xaver.clang-format"
+    },
+    "git.confirmSync": false
+}
